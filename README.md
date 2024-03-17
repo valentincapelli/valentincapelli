@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Java and Back-End developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Java, HTML and CSS**
+- 🌱 I’m currently learning **Java,  Python and pascal**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
