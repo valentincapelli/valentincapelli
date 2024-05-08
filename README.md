@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Valentin </h1>
 
 - 📫 How to reach me: **valentin.capelli@hotmail.com**
 
