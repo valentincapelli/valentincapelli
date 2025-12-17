@@ -54,8 +54,8 @@ Proyecto académico enfocado en análisis y desarrollo en Python.
 
 ## 📫 Contacto
 
-📧 Email: *(podés agregarlo si querés)*  
-💼 LinkedIn: *(opcional, muy recomendado)*  
+📧 Email: valentin.capelli@hotmail.com  
+💼 LinkedIn: www.linkedin.com/in/valentin-capelli-89a153275
 
 ---
 
