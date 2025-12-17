@@ -1,21 +1,72 @@
-<h1 align="center">Hi 👋, I'm Valentin </h1>
+<h1 align="center">👋 Hola, soy Valentín Capelli</h1>
 
-- 📫 How to reach me: **valentin.capelli@hotmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
+<p align="center">
+  Estudiante avanzado de <b>Licenciatura en Sistemas</b> en la UNLP <br/>
+  Interesado en desarrollo <b>Backend</b> y construcción de soluciones reales
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=valentincapelli&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentincapelli&theme=react&layout=compact" />
+---
+
+## 🧑‍💻 Sobre mí
+
+🎓 Estudio en la Facultad de Informática de la **Universidad Nacional de La Plata**  
+📘 Tercer año completado (carrera de 5 años)  
+💡 Me interesa el desarrollo backend, bases de datos y buenas prácticas de software  
+🔎 Buscando mi primera experiencia profesional como **Junior / Trainee / Pasante**
+
+---
+
+## 🛠️ Tecnologías
+
+### Lenguajes
+- Python
+- Java
+- JavaScript
+- C
+- Pascal
+
+### Herramientas y conceptos
+- APIs REST
+- Bases de datos relacionales (SQL)
+- Git & GitHub
+- Programación orientada a objetos
+- Estructuras de datos y algoritmos
+
+---
+
+## 📂 Proyectos destacados
+
+🔹 **Alquiler de Autos María**  
+Aplicación web simple desarrollada con JavaScript.
+
+🔹 **Proyecto de Software (PdS)**  
+Proyecto académico enfocado en análisis y desarrollo en Python.
+
+🔹 **Bases de Datos I**  
+Modelado, consultas SQL y diseño de bases de datos.
+
+🔹 **Programación Concurrente (PC)**  
+Ejercicios y ejemplos de concurrencia y sincronización.
+
+> 📌 *Los repositorios están orientados a mostrar lógica, estructura y aprendizaje progresivo.*
+
+---
+
+## 📈 Objetivo actual
+
+✔️ Seguir profundizando en desarrollo backend  
+✔️ Mejorar proyectos personales  
+✔️ Prepararme para el ingreso al mercado laboral IT
+
+---
+
+## 📫 Contacto
+
+📧 Email: *(podés agregarlo si querés)*  
+💼 LinkedIn: *(opcional, muy recomendado)*  
+
+---
+
+<p align="center">
+  ✨ Gracias por visitar mi perfil ✨
 </p>
