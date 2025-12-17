@@ -42,14 +42,6 @@ Aplicación web simple desarrollada con JavaScript.
 🔹 **Proyecto de Software (PdS)**  
 Proyecto académico enfocado en análisis y desarrollo en Python.
 
-🔹 **Bases de Datos I**  
-Modelado, consultas SQL y diseño de bases de datos.
-
-🔹 **Programación Concurrente (PC)**  
-Ejercicios y ejemplos de concurrencia y sincronización.
-
-> 📌 *Los repositorios están orientados a mostrar lógica, estructura y aprendizaje progresivo.*
-
 ---
 
 ## 📈 Objetivo actual
