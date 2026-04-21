@@ -10,7 +10,7 @@
 ## 🧑‍💻 Sobre mí
 
 🎓 Estudio en la Facultad de Informática de la **Universidad Nacional de La Plata**  
-📘 Tercer año completado (carrera de 5 años)  
+📘 Cursando 4to año (carrera de 5 años)  
 💡 Me interesa el desarrollo backend, bases de datos y buenas prácticas de software  
 🔎 Buscando mi primera experiencia profesional como **Junior / Trainee / Pasante**
 
